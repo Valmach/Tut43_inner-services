@@ -30,13 +30,16 @@ public class Robot {
 
             final String name = "Cecile";
            class Temp {
-               public void doSometing(){
+               public void doSomething(){
                    System.out.println("ID is: " + id);
                    System.out.println("My name is " + name);
+                   //you can put a class inside a method
+
                }
-               //you can put a class inside a method
 
 
            }
+        Temp temp = new Temp() ;
+            temp.doSomething();
         }
     }

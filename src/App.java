@@ -7,7 +7,6 @@ public class App {
         robot.start();
        // Robot.Brain brain = robot.new Brain();
         //brain.think();
-
                 //Robot.Brain is type
 
         Robot.Battery battery = new Robot.Battery();

@@ -9,7 +9,7 @@ public class Robot {
 
         public class Brain {
             public void think() {
-                System.out.println("Robot " + id + " is thinking. ");
+                System.out.println("Spoon " + id + " is thinking. ");
             }
         }
 
